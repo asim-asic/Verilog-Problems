@@ -1,3 +1,5 @@
+# Problem
+
 Given the concurrent Verilog statements:
 assign #3 B = A && C;
 assign #2 C = !B;
